@@ -13,6 +13,7 @@ $action = isset($parts[1]) ? $parts[1] : "";
 $param = isset($parts[2]) ? $parts[2] : "";
 
 
+
 require_once 'config/Database.php';
 
 /* ROTA DE POSTOS */
