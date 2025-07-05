@@ -15,7 +15,5 @@ $param = isset($parts[2]) ? $parts[2] : "";
 
 require_once 'config/Database.php';
 
-/* ROTA DE CLIENTES */
-require_once 'api/clientes/clientes.php';
 /* ROTA DE POSTOS */
 require_once 'api/postos/postos.php';
